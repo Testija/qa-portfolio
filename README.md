@@ -18,8 +18,9 @@ applications, usability, and basic accessibility.
 - Exploratory testing
 
 ### Documentation
-- 📄 Test Plan
-- 📄 Test Cases
-- 🐞 Bug Report
+- 📄 [Test Plan](Arst.ee_testimisplaan.pdf)
+- 📄 [Test Cases](Arst.ee_testjuhtumid1-33.pdf)
+- 🐞 [Bug Report](Arst.ee_Bug_Report.pdf)
+
 
 All documents are available in the project folder.
